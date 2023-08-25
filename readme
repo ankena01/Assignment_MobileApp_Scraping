@@ -5,3 +5,4 @@ There are a few assumptions being made to successfully execute the POC of web sc
 1. The script execution should only start with application open at homepage on emulator or real device 
 2. Install Android SDK and platform tools on the device 
 3. Install all required python libraries using command on terminal --> pip install -r requirements.txt
+4. In LineMan.py replace the  value of attribute 'udid' : '10e46a62' with your (real device / emulator) udid
